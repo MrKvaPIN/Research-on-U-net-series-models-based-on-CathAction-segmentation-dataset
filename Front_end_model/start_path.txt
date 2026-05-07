@@ -1,0 +1,1 @@
+C:/D/Python_environment/.venv_FYP/Scripts/python.exe -m streamlit run d:/FYP/Front_end_model/app.py
